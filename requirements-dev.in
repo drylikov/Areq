@@ -1,0 +1,6 @@
+
+pytest-httpx
+httpx
+requests
+pytest-cov
+pytest-asyncio
