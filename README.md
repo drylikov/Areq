@@ -1,5 +1,5 @@
 
-# areq
+# Areq
 
 areq is an asynchronous drop-in replacement for the popular `requests` library. It provides the same familiar API as `requests` but with async/await support, making it perfect for modern Python applications that need to make HTTP requests efficiently.
 
